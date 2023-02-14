@@ -1,1 +1,2 @@
-0-alias - a script to Create a script that creates an alias. Name: ls Value: rm *
+- 0-alias - a script to Create a script that creates an alias. Name: ls Value: rm *
+- 1-hello_you - a script that prints hello user, where user is the current Linux user.
