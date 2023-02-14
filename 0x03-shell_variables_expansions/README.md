@@ -13,3 +13,4 @@
 The output should be alpha ordered, starting with aa Do not print oo Your script file should contain maximum 64 characters
 - 11-binary_to_decimal - a script that converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY
 The script should display the number in base 10, followed by a new line
+- 3-paths - a script that counts the number of directories in the PATH.
